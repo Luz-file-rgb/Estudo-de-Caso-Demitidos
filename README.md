@@ -1,2 +1,2 @@
-# Estudo-de-Caso-Viol-ncia
+# Estudo-de-Caso-Violencia
 Estudo de caso em eco
